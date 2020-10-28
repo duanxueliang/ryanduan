@@ -5,6 +5,7 @@
   "keywords": ["tools"],
   "license": "MIT",
   "homepage": "https://github.com/duanxueliang/ryanduan",
+  "minimum-stability": "dev",
   "require": {
      "php": "^7.0"
   },
