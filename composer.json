@@ -1,11 +1,10 @@
 {
   "name": "ryanduan/ryanduancomposerpackage",
   "type": "library",
-  "description": "some small tools",
+  "description": "a duanxueliang  tools",
   "keywords": ["tools"],
   "license": "MIT",
   "homepage": "https://github.com/duanxueliang/ryanduan",
-  "minimum-stability": "dev",
   "require": {
      "php": "^7.0"
   },
