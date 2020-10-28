@@ -1,0 +1,1 @@
+这是一个独立的composer 自定义安装的 packagist 安装包

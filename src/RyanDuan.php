@@ -1,5 +1,5 @@
 <?php
-namespace RyanDuanTestComposerPackage;
+namespace RyanDuanPackage;
 
 class RyanDuan
 {
